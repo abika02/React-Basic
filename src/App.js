@@ -10,15 +10,3 @@ function App() {
 }
 
 export default App;
-
-
-
-
-
-
-//***************Props->Properties/Paramaters*********************
-
-//properties->data being passed from one component to another
-//props->placehlder
-//Dynamically rendering name-> $
-//Here we use->props.name(exam
